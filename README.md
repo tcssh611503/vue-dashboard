@@ -13,15 +13,7 @@ includes following features and pages:
 
 ## Instalation 
 
-1. Clone repository
-```shell
-git clone https://github.com/flatlogic/light-blue-vue-admin.git
-```
-2. Get in the project folder
-```shell
-cd light-blue-vue-admin
-```
-3. Install dependencies via npm or yarn
+1. Install dependencies via npm or yarn
 ```shell
 npm install
 ```
