@@ -11,7 +11,7 @@
                 <h6>Configuration</h6>
             </header>
             <div class="widget-body mt-3">
-                <div class="mt-4">
+                <!-- <div class="mt-4">
                     <a href="https://flatlogic.com/templates/light-blue-vue/"
                     target="_blank"
                     role="button"
@@ -30,8 +30,8 @@
                     class="btn btn-inverse btn-rounded-f btn-block fs-mini">
                         Documentation
                     </a>
-                </div>
-                <div class="d-flex justify-content-between mt-lg">
+                </div> -->
+                <!-- <div class="d-flex justify-content-between mt-lg">
                     <a role="button"
                     target="_blank"
                     href="https://flatlogic.com/contact"
@@ -46,12 +46,12 @@
                         <i class="fa fa-github mr-xs"></i>
                         Github
                     </a>
-                </div>
+                </div> -->
                 <div class="mt-lg d-flex flex-column align-items-center theme-sharing">
                     <span class="fs-sm">
                         Thank you for sharing!
                     </span>
-                    <div class="d-flexjustify-content-center text-light mt-2 h2 mb-0">
+                    <!-- <div class="d-flexjustify-content-center text-light mt-2 h2 mb-0">
                         <a target="_blank"
                         href="https://twitter.com/intent/tweet?text=Amazing%20admin%20dashboard%20template%20built%20with%20%23VueJS%20and%20%23Bootstrap%204!&url=https://flatlogic.com/templates/light-blue-vue-lite/demo&via=flatlogic">
                             <i class="fa fa-twitter mx-3"></i>
@@ -60,7 +60,7 @@
                         target="_blank">
                             <i class="fa fa-facebook mx-3"></i>
                         </a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </section>
